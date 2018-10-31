@@ -356,7 +356,8 @@ section#popular {
 
 @media (min-width: 700px) {
     #mobiel {
-        display: none;
+        width: 0em;
+        height: 0em;
     }
 }
 
@@ -364,7 +365,8 @@ section#popular {
 
 @media (min-width: 400px) {
     #verhaaltje {
-        display: none;
+        height: 0em;
+        width: 0em;
     }
 }
 
@@ -379,7 +381,8 @@ section#popular {
 
 @media (min-width: 400px) {
     #bellen {
-        display: none;
+        height: 0em;
+        width: 0em;
     }
 }
 
