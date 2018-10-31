@@ -327,9 +327,8 @@ section#popular {
     font-size: 4em;
     color: #2800a0;
     position: absolute;
-    right: 0.2em;
-    top: 0.0111em;
-
+    right: 0.1em;
+    top: -0.3em;
 }
 
 /*.............Javascript opmaak downloaden .........*/
@@ -346,7 +345,6 @@ section#popular {
     position: fixed;
     right: 0.1em;
 }
-
 
 /* ..............Mobiele versie verhaal.......... */
 
